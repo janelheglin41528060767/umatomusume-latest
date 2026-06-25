@@ -9,7 +9,7 @@ The **🏇 Umatomusume Latest** is an automated training assistant for Umamusume
 
 <div align="center">
 
-[![Download Umatomusume Latest](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/umatomusume-latest)
+[![Download Umatomusume Latest](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/umatomusume-latest)
 
 </div>
 
@@ -90,7 +90,7 @@ Umamusume: Pretty Derby has complex training mechanics. Hundreds of random event
 4. **🎮 Launch Umamusume in emulator** (MuMu recommended)
 5. **⚙️ Configure capture areas** for OCR 
 
-[![Download Umatomusume Latest](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/umatomusume-latest)
+[![Download Umatomusume Latest](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/umatomusume-latest)
 
 ### OCR Event Tracker Setup
 
@@ -199,7 +199,7 @@ Optimize your Uma Musume training. **Umatomusume Latest** helps you make the bes
 
 <div align="center">
 
-[![Download Umatomusume Latest](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/umatomusume-latest)
+[![Download Umatomusume Latest](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/umatomusume-latest)
 
 **Version 2.0.0** — Training automation assistant. Free forever.
 
